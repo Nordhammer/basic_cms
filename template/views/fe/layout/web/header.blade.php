@@ -2,6 +2,7 @@
 <html lang="{NATIVE_LANGUAGE}">
     <head>
         <meta charset="utf-8">
+        <meta name="theme-color" content="rgb(255,255,255)">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta name="keywords" content="{CONFIG.KEYWORDS}">
         <meta name="description" content="{CONFIG.DESCRIPTION}">

@@ -1,11 +1,11 @@
 User-agent: *
 Disallow: /api/
 Disallow: /class/
-Disallow: /css/
-Disallow: /img/
-Disallow: /inc/
-Disallow: /js/
-Disallow: /tpl/
+Disallow: /config/
+Disallow: /public/
+Disallow: /resource/
+Disallow: /routes/
+Disallow: /template/
 
 User-agent: grub-client
 User-agent: grub
